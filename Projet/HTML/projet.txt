@@ -1,0 +1,10 @@
+Acceuil:
+	explications de pk on fait ce site (projet de cours)
+	explications des fonctions du site.
+	
+contend:
+	bannière avec les dates clés
+	
+A propos:
+	brève explications de qui ont est.
+	
