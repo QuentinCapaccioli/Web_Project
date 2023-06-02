@@ -1,0 +1,43 @@
+header{
+    background: url(../img/banniereFlagFrance.jpg);
+    width: auto;
+    height: auto;
+    border: auto;
+    padding: 70px 0px 0px 0px;
+    background-size: cover;
+    box-shadow: 3px 4px 20px 5px;
+}
+#menu {
+    list-style-type: none;
+    display: flex;
+}
+
+.li_menu {
+    margin: 10px;
+    border: 2px solid;
+    border-color: rgb(205, 29, 196);
+}
+
+.a_menu:hover {
+    color: rgb(148, 9, 212);
+    border: solid;
+    border-color: rgb(148, 9, 212);
+    transition: all 0.5s;
+}
+
+.a_menu {
+    color: rgb(205, 29, 196);
+    background-color: white;
+}
+
+#menu>li:nth-child(1):hover {
+    background-color: rgba(216, 145, 141, 0.788);
+}
+
+#menu>li:nth-child(2):hover {
+    background-color: rgba(141, 216, 169, 0.788);
+}
+
+#menu>li:nth-child(3):hover {
+    background-color: rgba(141, 164, 216, 0.788);
+}
